@@ -12,3 +12,12 @@
 ## Ràng buộc đã biết
 - Container không truy cập được gso.gov.vn / nso.gov.vn (502 / connection reset, 24/11/2026) → có thể cần user tải dữ liệu từ máy cá nhân.
 - 10 điểm dữ liệu năm không đủ để xác định turning point → bắt buộc bổ sung dữ liệu quý/tháng.
+
+## Quyết định đã chốt — Gate 2 (24/11/2026, user duyệt toàn bộ)
+| # | Quyết định | Chốt |
+|---|---|---|
+| D1 | Định nghĩa chu kỳ | Growth cycle (độ lệch khỏi trend) + growth-rate cycle (tốc độ tăng trưởng); không dùng classical cycle |
+| D2 | Dữ liệu xương sống | GDP quý theo ngành từ 2010 + chuỗi tháng từ 2011; PDF năm chỉ dùng cho cơ cấu |
+| D3 | Core list | 15 nguồn đánh dấu **Y** trong `01_evidence_log.md` |
+| D4 | Dùng cho đầu tư | Khung rủi ro theo regime, không phải tín hiệu timing |
+| D5 | Công cụ | Python |

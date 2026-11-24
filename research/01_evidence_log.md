@@ -1,6 +1,6 @@
 # 01 · Evidence log — Stage 2 (broad scan)
 
-Ngày truy cập: 24/11/2026. **Mức đọc: tất cả nguồn mới được xác minh ở mức trang metadata / abstract qua kết quả tìm kiếm — CHƯA đọc full text.** Full text đọc ở Stage 3 cho core list.
+Ngày truy cập: 24/11/2026. **Mức đọc: tất cả nguồn mới được xác minh ở mức trang metadata / abstract qua kết quả tìm kiếm — CHƯA đọc full text.** Full text đọc ở Stage 3 cho core list — xem mức đọc từng nguồn trong `03_core_extraction.md`.
 
 Tier: 1 = peer-reviewed / dữ liệu chính thức · 2 = working paper / preprint (gắn nhãn) · 3 = chỉ là đầu mối, không dùng làm bằng chứng.
 Khối: A Định nghĩa & pha · B Xử lý dữ liệu · C Trend–cycle · D Turning point · E Chỉ báo tổng hợp · F Đặc thù VN/EM · G Độ tin cậy real-time · H Ngành · I Tài chính & đầu tư
@@ -36,9 +36,9 @@ Khối: A Định nghĩa & pha · B Xử lý dữ liệu · C Trend–cycle · D
 | S27 | Stock & Watson (2003), JEL 41(3):788–829 | https://econpapers.repec.org/RePEc:aea:jeclit:v:41:y:2003:i:3:p:788-829 | 1 | I | Giá tài sản dự báo được nhưng không ổn định theo nước/thời kỳ; kết hợp nhiều dự báo thì tốt hơn | **Y** | Cảnh báo về độ tin cậy tín hiệu |
 | S28 | Fama & French (1989), JFE 25(1):23–49 | 10.1016/0304-405X(89)90095-0 | 1 | I | Lợi suất kỳ vọng thấp khi kinh tế mạnh, cao khi yếu | Y | Liên kết chu kỳ → lợi suất |
 | S29 | Stangl, Jacobsen & Visaltanachoti (2009), WP | https://mro.massey.ac.nz/items/ccadcb8d-2658-456b-9aab-4ba840fba845 | 2 `[WP]` | I | Biết trước chu kỳ hoàn hảo: sector rotation chỉ +2,3%/năm; có sai số thực tế → hết ý nghĩa thống kê | Y (qua S30) | Kiểm tra kỳ vọng đầu tư |
-| S30 | Molchanov & Stangl (2023), *Int. J. Finance & Economics* | (DOI cần lấy ở Stage 3) | 1 | I | Mở rộng 1948–2022, 15 chu kỳ: outperformance "chỉ rất nhỏ" | **Y** | Bản peer-reviewed của S29 |
+| S30 | Molchanov & Stangl (2023), *Int. J. Finance & Economics* | 10.1002/ijfe.2882 | 1 | I | Mở rộng 1948–2022, 15 chu kỳ: outperformance "chỉ rất nhỏ" | **Y** | Bản peer-reviewed của S29 |
 | S31 | Hussainey & Ngoc (2009), *J. Risk Finance* | (DOI cần lấy) | 1 | I, F | Liên hệ có ý nghĩa giữa sản xuất, thị trường tiền tệ và giá cổ phiếu VN (2001–2008) | N | Mẫu cũ; tham khảo |
-| S32 | IMF (2025), Vietnam Article IV, Country Report 25/283 | https://www.imf.org/en/Publications/CR/Issues/2025/10/03/Vietnam-2025-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-570895 | 1 (tổ chức) | F, G | Có hàng "Output gap (% potential GDP)"; ước lượng thay đổi giữa bản 2024 và 2025; credit-to-GDP gap dương 2024 | **Y** | Benchmark chính thức để đối chiếu — **nhãn năm của từng giá trị chưa xác minh** |
+| S32 | IMF (2025), Vietnam Article IV, Country Report 25/283 | https://www.imf.org/en/Publications/CR/Issues/2025/10/03/Vietnam-2025-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-570895 | 1 (tổ chức) | F, G | Có hàng "Output gap (% potential GDP)"; ước lượng thay đổi giữa bản 2024 và 2025; credit-to-GDP gap dương 2024 | **Y** | Benchmark chính thức — **Stage 3: không thấy hàng output gap định lượng trong bản text; các con số từ snippet → [Unverified]** |
 | S33 | IMF (2024), Vietnam Article IV + Selected Issues | https://imf.org/-/media/Files/Publications/CR/2024/English/1vnmea2024001-print-pdf.ashx | 1 | F, I | SBV đặt trần tăng trưởng tín dụng; BĐS chỉ phục hồi trung hạn | N | Bối cảnh |
 | S34 | IMF (2023), Vietnam Article IV | https://imf.org/-/media/Files/Publications/CR/2023/English/1VNMEA2023003.ashx | 1 | H, I | Khủng hoảng thanh khoản BĐS, thị trường trái phiếu DN đóng băng 2022–23 | N | Bối cảnh ngành BĐS |
 | S35 | IMF (2012), slide về credit boom VN | https://imf.org/-/media/external/country/VNM/rr/2012/050912.ashx | 1 | I | Tín dụng tăng 32,4% (cuối 2010) → 14,3% (cuối 2011) | N | Dữ liệu chu kỳ tín dụng — cần nguồn thứ 2 |

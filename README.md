@@ -9,7 +9,8 @@ Mục đích sử dụng: phân tích phục vụ quyết định cá nhân củ
 ## Cấu trúc
 - `research/00_scope.md` — phạm vi, câu hỏi, quyết định đã chốt
 - `research/01_evidence_log.md` — evidence table (Stage 2: quét rộng)
-- `research/02_approach_outline.md` — outline knowledge base + approach đề xuất (chờ duyệt Gate 2)
+- `research/02_approach_outline.md` — outline knowledge base + approach (Gate 2 đã duyệt)
+- `research/03_core_extraction.md` — Stage 3: trích xuất sâu core list, xung đột mới, đề xuất cập nhật approach
 
 ## Trạng thái
-Stage 2 (broad scan) xong — chờ Gate 2 (duyệt core list + các quyết định).
+Gate 2 đã duyệt (D1–D5). Stage 3 (deep read) xong — chờ user duyệt 6 cập nhật approach, sau đó Stage 4 (synthesis + deliverables).
